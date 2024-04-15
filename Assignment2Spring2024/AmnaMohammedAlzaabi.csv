@@ -1,0 +1,301 @@
+,Unnamed: 0,Age,Gender,Occupation,Days_Indoors,Growing_Stress,Quarantine_Frustrations,Changes_Habits,Mental_Health_History,Weight_Change,Mood_Swings,Coping_Struggles,Work_Interest,Social_Weakness
+0,286,20-25,Male,Business,15-30 days,Yes,No,Yes,No,Yes,High,Yes,No,Yes
+1,32,25-30,Female,Business,1-14 days,Yes,No,No,No,Yes,Medium,No,No,Yes
+2,37,16-20,Male,Corporate,15-30 days,Yes,Yes,Yes,No,Yes,Medium,No,Yes,Yes
+3,522,20-25,Female,Student,Go out Every day,Yes,No,Yes,Yes,No,Medium,Yes,No,Yes
+4,9,20-25,Male,Corporate,Go out Every day,Yes,Yes,Yes,Yes,Yes,Low,No,Yes,No
+5,40,30-Above,Female,Business,31-60 days,No,No,Yes,No,No,Low,Yes,No,Yes
+6,71,25-30,Male,Corporate,Go out Every day,Yes,Yes,Yes,Yes,No,Low,Yes,Yes,No
+7,823,30-Above,Female,Others,15-30 days,No,No,No,No,Yes,Low,Yes,No,Yes
+8,217,16-20,Male,Student,15-30 days,Yes,Yes,No,No,Yes,Low,No,No,Yes
+9,25,30-Above,Female,Housewife,1-14 days,Yes,Yes,Yes,Yes,Yes,Low,Yes,Yes,Yes
+10,135,30-Above,Male,Student,Go out Every day,Yes,Yes,Yes,No,No,Medium,Yes,Yes,Yes
+11,430,30-Above,Female,Corporate,1-14 days,No,Yes,No,Yes,Yes,High,Yes,Yes,Yes
+12,76,30-Above,Female,Housewife,15-30 days,No,No,Yes,No,No,High,No,Yes,Yes
+13,202,16-20,Male,Corporate,1-14 days,Yes,Yes,Yes,Yes,Yes,Low,Yes,Yes,Yes
+14,108,30-Above,Female,Others,15-30 days,Yes,No,Yes,Yes,Yes,Low,Yes,No,Yes
+15,515,30-Above,Female,Corporate,1-14 days,Yes,No,Yes,Yes,Yes,High,Yes,No,No
+16,298,20-25,Female,Corporate,31-60 days,No,Yes,Yes,No,No,High,Yes,No,Yes
+17,167,20-25,Male,Business,31-60 days,No,Yes,Yes,Yes,No,Low,No,Yes,No
+18,523,30-Above,Female,Housewife,31-60 days,Yes,No,Yes,Yes,Yes,Low,No,Yes,Yes
+19,674,30-Above,Male,Housewife,1-14 days,No,Yes,No,No,Yes,Low,No,Yes,Yes
+20,171,20-25,Male,Corporate,More than 2 months,Yes,Yes,Yes,Yes,Yes,Medium,No,No,Yes
+21,582,30-Above,Female,Housewife,Go out Every day,No,No,No,No,Yes,Low,Yes,No,Yes
+22,283,16-20,Male,Student,31-60 days,No,Yes,Yes,Yes,Yes,Low,Yes,Yes,Yes
+23,648,25-30,Female,Business,More than 2 months,Yes,Yes,Yes,No,Yes,Medium,No,No,Yes
+24,100,25-30,Female,Business,More than 2 months,Yes,Yes,No,Yes,No,Medium,No,Yes,Yes
+25,757,20-25,Female,Corporate,31-60 days,Yes,Yes,No,Yes,Yes,Medium,Yes,Yes,Yes
+26,618,25-30,Male,Housewife,1-14 days,Yes,Yes,Yes,Yes,Yes,Medium,Yes,No,Yes
+27,525,20-25,Male,Business,15-30 days,Yes,Yes,Yes,No,No,Medium,Yes,Yes,Yes
+28,157,30-Above,Female,Housewife,Go out Every day,Yes,Yes,Yes,Yes,Yes,Medium,No,Yes,Yes
+29,291,30-Above,Female,Others,1-14 days,Yes,Yes,Yes,Yes,Yes,Medium,Yes,Yes,Yes
+30,240,16-20,Female,Others,1-14 days,Yes,Yes,No,Yes,Yes,High,Yes,Yes,No
+31,559,30-Above,Male,Others,Go out Every day,No,Yes,No,No,Yes,Medium,No,No,Yes
+32,734,30-Above,Male,Housewife,1-14 days,No,Yes,Yes,No,Yes,High,Yes,Yes,Yes
+33,303,25-30,Female,Others,31-60 days,Yes,Yes,Yes,Yes,Yes,High,Yes,Yes,No
+34,644,20-25,Female,Corporate,31-60 days,Yes,No,No,Yes,No,Medium,Yes,No,Yes
+35,537,30-Above,Male,Housewife,1-14 days,Yes,Yes,Yes,No,Yes,Low,No,Yes,No
+36,314,20-25,Female,Student,31-60 days,No,No,Yes,Yes,Yes,Medium,Yes,Yes,No
+37,737,25-30,Female,Housewife,15-30 days,Yes,No,Yes,No,Yes,Low,No,No,No
+38,114,16-20,Female,Business,15-30 days,Yes,No,Yes,No,Yes,Low,Yes,No,Yes
+39,572,25-30,Female,Others,More than 2 months,No,Yes,No,Yes,Yes,High,Yes,Yes,No
+40,616,25-30,Male,Housewife,1-14 days,Yes,Yes,No,Yes,Yes,Low,No,No,No
+41,424,20-25,Female,Business,15-30 days,Yes,Yes,Yes,No,Yes,Low,Yes,No,Yes
+42,379,25-30,Female,Others,15-30 days,Yes,No,Yes,No,No,High,Yes,Yes,Yes
+43,624,20-25,Female,Others,31-60 days,Yes,Yes,No,Yes,No,High,No,No,Yes
+44,657,30-Above,Female,Others,More than 2 months,No,Yes,No,Yes,No,Low,No,Yes,No
+45,250,30-Above,Male,Others,31-60 days,Yes,Yes,Yes,Yes,Yes,Low,Yes,Yes,No
+46,561,25-30,Female,Others,31-60 days,Yes,No,Yes,Yes,Yes,Medium,No,Yes,No
+47,381,30-Above,Male,Corporate,31-60 days,Yes,Yes,No,Yes,Yes,Medium,No,No,Yes
+48,61,25-30,Male,Corporate,15-30 days,Yes,Yes,No,No,Yes,Medium,Yes,Yes,No
+49,374,20-25,Female,Corporate,31-60 days,Yes,No,Yes,Yes,Yes,Low,No,Yes,Yes
+50,242,30-Above,Male,Student,31-60 days,Yes,Yes,No,No,No,High,Yes,Yes,Yes
+51,562,16-20,Female,Housewife,15-30 days,Yes,No,No,Yes,Yes,High,Yes,Yes,No
+52,288,25-30,Female,Business,31-60 days,Yes,No,No,Yes,Yes,High,No,No,No
+53,176,25-30,Male,Business,Go out Every day,Yes,Yes,No,Yes,No,Low,Yes,Yes,No
+54,806,16-20,Female,Corporate,Go out Every day,Yes,No,No,No,No,Medium,Yes,Yes,Yes
+55,800,25-30,Male,Student,31-60 days,Yes,Yes,Yes,Yes,No,High,No,Yes,Yes
+56,72,25-30,Female,Corporate,More than 2 months,Yes,No,Yes,Yes,Yes,Low,Yes,No,Yes
+57,680,16-20,Female,Corporate,Go out Every day,No,No,Yes,Yes,Yes,High,No,Yes,Yes
+58,482,25-30,Female,Business,15-30 days,No,Yes,Yes,Yes,Yes,High,No,Yes,No
+59,467,30-Above,Male,Business,15-30 days,No,Yes,Yes,No,Yes,High,No,Yes,Yes
+60,579,20-25,Male,Others,15-30 days,No,No,Yes,Yes,Yes,Low,Yes,Yes,Yes
+61,775,20-25,Female,Housewife,Go out Every day,Yes,Yes,Yes,Yes,Yes,Low,Yes,Yes,Yes
+62,606,16-20,Female,Housewife,1-14 days,Yes,Yes,Yes,Yes,No,Medium,No,No,Yes
+63,137,20-25,Female,Student,Go out Every day,Yes,Yes,Yes,Yes,No,Low,Yes,Yes,Yes
+64,787,30-Above,Female,Student,More than 2 months,Yes,Yes,Yes,No,No,Medium,Yes,No,No
+65,517,25-30,Male,Housewife,1-14 days,Yes,No,Yes,No,Yes,Medium,No,No,Yes
+66,494,25-30,Male,Corporate,1-14 days,Yes,Yes,No,No,Yes,Low,Yes,Yes,Yes
+67,538,20-25,Male,Business,More than 2 months,Yes,Yes,Yes,No,No,Medium,Yes,Yes,Yes
+68,147,30-Above,Male,Housewife,1-14 days,Yes,Yes,Yes,Yes,Yes,Low,Yes,Yes,Yes
+69,231,25-30,Female,Business,More than 2 months,Yes,Yes,Yes,Yes,Yes,Low,Yes,Yes,Yes
+70,163,25-30,Female,Business,Go out Every day,Yes,Yes,Yes,Yes,Yes,Low,Yes,No,No
+71,340,16-20,Male,Housewife,15-30 days,No,No,No,Yes,Yes,Low,No,No,Yes
+72,819,20-25,Male,Corporate,Go out Every day,No,Yes,No,Yes,Yes,Medium,No,Yes,Yes
+73,177,25-30,Female,Corporate,Go out Every day,Yes,No,Yes,Yes,Yes,Low,Yes,Yes,No
+74,470,30-Above,Male,Business,Go out Every day,Yes,No,Yes,No,No,Medium,No,No,No
+75,647,20-25,Male,Student,1-14 days,Yes,Yes,Yes,Yes,Yes,High,Yes,Yes,Yes
+76,370,20-25,Male,Corporate,Go out Every day,Yes,Yes,Yes,Yes,No,Low,No,Yes,Yes
+77,358,16-20,Male,Student,15-30 days,No,Yes,Yes,Yes,Yes,Low,Yes,Yes,Yes
+78,266,30-Above,Female,Corporate,More than 2 months,Yes,Yes,No,Yes,Yes,Medium,No,Yes,Yes
+79,508,30-Above,Male,Others,1-14 days,Yes,No,No,Yes,Yes,Medium,Yes,No,No
+80,227,20-25,Male,Student,More than 2 months,Yes,Yes,Yes,Yes,Yes,Low,Yes,Yes,No
+81,519,16-20,Male,Others,31-60 days,Yes,No,Yes,Yes,No,High,Yes,Yes,Yes
+82,739,16-20,Female,Business,31-60 days,No,Yes,Yes,Yes,Yes,High,Yes,Yes,No
+83,440,30-Above,Female,Business,15-30 days,Yes,Yes,Yes,Yes,Yes,Medium,No,No,Yes
+84,87,25-30,Female,Others,31-60 days,Yes,No,Yes,Yes,No,High,Yes,Yes,Yes
+85,5,25-30,Male,Housewife,More than 2 months,No,Yes,Yes,Yes,Yes,Medium,No,Yes,Yes
+86,423,16-20,Female,Business,1-14 days,Yes,Yes,No,Yes,No,High,No,Yes,No
+87,168,20-25,Female,Housewife,Go out Every day,Yes,Yes,Yes,No,Yes,High,No,Yes,Yes
+88,662,20-25,Female,Business,15-30 days,No,Yes,No,No,No,Medium,Yes,No,No
+89,173,30-Above,Female,Business,Go out Every day,Yes,Yes,Yes,No,Yes,Low,No,Yes,No
+90,388,30-Above,Male,Others,31-60 days,No,Yes,No,No,Yes,Medium,Yes,No,Yes
+91,246,25-30,Male,Business,Go out Every day,No,Yes,Yes,No,Yes,Medium,Yes,Yes,Yes
+92,550,30-Above,Female,Student,More than 2 months,No,No,No,No,No,Low,Yes,No,Yes
+93,488,25-30,Female,Housewife,Go out Every day,Yes,Yes,Yes,Yes,Yes,Low,Yes,Yes,Yes
+94,207,25-30,Male,Housewife,15-30 days,No,Yes,No,No,Yes,High,Yes,Yes,No
+95,784,25-30,Male,Housewife,Go out Every day,No,Yes,Yes,No,Yes,High,No,Yes,Yes
+96,564,16-20,Female,Housewife,15-30 days,Yes,Yes,No,No,Yes,High,Yes,Yes,Yes
+97,681,30-Above,Male,Others,31-60 days,Yes,Yes,Yes,No,No,High,No,Yes,Yes
+98,97,16-20,Male,Student,Go out Every day,Yes,Yes,Yes,No,Yes,High,Yes,Yes,Yes
+99,729,25-30,Female,Housewife,1-14 days,Yes,Yes,Yes,Yes,Yes,Medium,Yes,Yes,No
+100,532,16-20,Female,Housewife,15-30 days,No,Yes,No,No,Yes,High,Yes,Yes,Yes
+101,615,16-20,Female,Business,31-60 days,Yes,No,No,Yes,No,Medium,Yes,No,No
+102,392,20-25,Female,Corporate,31-60 days,Yes,Yes,No,No,No,Medium,No,Yes,Yes
+103,208,16-20,Female,Others,15-30 days,Yes,Yes,No,Yes,No,Low,Yes,No,Yes
+104,180,30-Above,Female,Corporate,1-14 days,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+105,429,30-Above,Male,Student,15-30 days,Yes,Yes,Yes,Yes,No,Medium,No,Yes,Yes
+106,267,30-Above,Male,Student,15-30 days,No,No,Yes,Yes,Yes,Low,No,Yes,Yes
+107,765,16-20,Female,Others,15-30 days,Yes,Yes,No,Yes,No,Low,No,No,Yes
+108,307,25-30,Female,Others,More than 2 months,Yes,Yes,No,No,Yes,High,Yes,No,Yes
+109,640,20-25,Male,Business,1-14 days,Yes,Yes,Yes,No,No,Medium,Yes,No,No
+110,2,30-Above,Female,Student,Go out Every day,No,No,Yes,No,No,Medium,Yes,Yes,No
+111,504,20-25,Male,Housewife,31-60 days,No,Yes,Yes,No,Yes,Low,Yes,Yes,Yes
+112,759,30-Above,Female,Others,More than 2 months,No,No,Yes,Yes,Yes,High,Yes,No,Yes
+113,541,30-Above,Female,Student,More than 2 months,Yes,No,Yes,Yes,Yes,High,Yes,No,No
+114,664,30-Above,Female,Housewife,31-60 days,Yes,Yes,Yes,Yes,No,High,Yes,Yes,Yes
+115,193,30-Above,Male,Business,More than 2 months,Yes,Yes,No,Yes,No,Medium,Yes,No,Yes
+116,279,30-Above,Female,Corporate,31-60 days,Yes,No,Yes,Yes,Yes,Medium,Yes,Yes,Yes
+117,134,16-20,Male,Housewife,More than 2 months,Yes,Yes,No,No,No,Low,Yes,Yes,No
+118,527,30-Above,Male,Housewife,More than 2 months,Yes,Yes,Yes,No,Yes,Medium,No,Yes,No
+119,442,16-20,Male,Housewife,Go out Every day,No,Yes,Yes,Yes,No,Medium,Yes,No,Yes
+120,129,30-Above,Male,Student,31-60 days,No,Yes,Yes,Yes,Yes,Low,No,No,Yes
+121,27,20-25,Male,Student,1-14 days,Yes,No,Yes,No,Yes,High,Yes,Yes,No
+122,364,25-30,Male,Others,31-60 days,No,Yes,Yes,Yes,No,Low,Yes,No,Yes
+123,178,16-20,Female,Housewife,1-14 days,No,Yes,Yes,Yes,Yes,Medium,No,No,Yes
+124,630,16-20,Female,Business,Go out Every day,Yes,Yes,Yes,Yes,Yes,Low,No,Yes,Yes
+125,143,30-Above,Female,Student,15-30 days,Yes,Yes,Yes,No,Yes,Medium,No,No,No
+126,683,30-Above,Male,Others,31-60 days,No,Yes,No,Yes,No,High,No,No,No
+127,132,16-20,Male,Student,15-30 days,Yes,Yes,Yes,Yes,Yes,High,Yes,No,Yes
+128,387,30-Above,Female,Housewife,31-60 days,Yes,Yes,Yes,Yes,Yes,Medium,Yes,No,Yes
+129,51,30-Above,Female,Student,More than 2 months,Yes,No,Yes,No,Yes,Low,Yes,Yes,Yes
+130,567,25-30,Female,Student,1-14 days,Yes,Yes,No,Yes,Yes,High,Yes,No,Yes
+131,305,16-20,Female,Others,15-30 days,Yes,Yes,No,Yes,No,High,Yes,Yes,No
+132,249,30-Above,Male,Housewife,Go out Every day,No,Yes,Yes,No,Yes,Medium,No,Yes,Yes
+133,310,30-Above,Female,Housewife,31-60 days,Yes,No,Yes,No,Yes,Low,Yes,Yes,Yes
+134,401,16-20,Male,Business,Go out Every day,Yes,No,No,Yes,Yes,Low,Yes,Yes,Yes
+135,336,25-30,Female,Corporate,31-60 days,Yes,Yes,Yes,No,Yes,Low,Yes,No,No
+136,346,25-30,Male,Student,15-30 days,No,Yes,Yes,Yes,Yes,High,No,No,No
+137,731,16-20,Male,Student,1-14 days,No,Yes,Yes,No,Yes,High,Yes,Yes,Yes
+138,717,30-Above,Male,Business,1-14 days,Yes,No,Yes,No,No,High,Yes,Yes,Yes
+139,219,16-20,Female,Student,31-60 days,Yes,Yes,No,No,No,Medium,No,No,Yes
+140,436,25-30,Male,Housewife,More than 2 months,Yes,No,Yes,Yes,No,High,No,No,Yes
+141,796,20-25,Male,Others,Go out Every day,Yes,No,Yes,No,Yes,Medium,Yes,No,Yes
+142,750,16-20,Male,Student,15-30 days,Yes,Yes,Yes,Yes,Yes,Medium,Yes,No,Yes
+143,343,30-Above,Female,Housewife,Go out Every day,Yes,Yes,Yes,Yes,Yes,Medium,Yes,Yes,No
+144,323,16-20,Female,Student,Go out Every day,No,Yes,Yes,Yes,Yes,Medium,No,No,Yes
+145,462,16-20,Female,Housewife,31-60 days,Yes,Yes,No,No,Yes,Medium,No,No,Yes
+146,63,16-20,Male,Student,Go out Every day,Yes,Yes,No,Yes,Yes,High,Yes,Yes,Yes
+147,570,25-30,Male,Housewife,Go out Every day,No,No,Yes,No,Yes,Low,Yes,No,Yes
+148,406,25-30,Female,Corporate,1-14 days,No,Yes,Yes,No,Yes,Low,No,No,Yes
+149,798,30-Above,Male,Corporate,15-30 days,No,Yes,No,Yes,Yes,Medium,No,Yes,No
+150,311,20-25,Male,Business,1-14 days,Yes,Yes,Yes,No,Yes,Medium,Yes,No,Yes
+151,294,25-30,Female,Student,More than 2 months,Yes,Yes,No,Yes,Yes,Low,No,No,Yes
+152,322,16-20,Male,Student,15-30 days,Yes,Yes,Yes,Yes,No,Low,No,No,Yes
+153,248,30-Above,Female,Student,Go out Every day,No,Yes,No,Yes,Yes,High,No,No,No
+154,816,30-Above,Male,Others,More than 2 months,Yes,Yes,Yes,Yes,Yes,High,Yes,Yes,No
+155,521,25-30,Female,Student,31-60 days,Yes,No,Yes,No,No,High,Yes,No,No
+156,254,25-30,Female,Housewife,More than 2 months,No,Yes,No,Yes,Yes,High,No,Yes,No
+157,26,30-Above,Male,Student,15-30 days,Yes,Yes,No,Yes,Yes,Medium,No,Yes,Yes
+158,67,25-30,Female,Corporate,1-14 days,Yes,Yes,Yes,Yes,Yes,Medium,Yes,Yes,Yes
+159,20,30-Above,Female,Housewife,Go out Every day,No,Yes,No,No,Yes,Medium,Yes,Yes,Yes
+160,30,30-Above,Male,Business,More than 2 months,Yes,Yes,No,Yes,Yes,Medium,No,Yes,Yes
+161,390,30-Above,Male,Corporate,1-14 days,No,Yes,Yes,Yes,Yes,Low,No,Yes,Yes
+162,496,30-Above,Male,Housewife,More than 2 months,Yes,Yes,No,No,Yes,Low,No,No,Yes
+163,627,30-Above,Female,Others,1-14 days,Yes,Yes,Yes,Yes,No,High,No,No,Yes
+164,810,25-30,Male,Student,Go out Every day,Yes,No,Yes,No,Yes,High,No,Yes,No
+165,530,16-20,Male,Student,1-14 days,Yes,Yes,Yes,No,Yes,Medium,No,No,Yes
+166,230,16-20,Female,Housewife,1-14 days,Yes,Yes,Yes,Yes,No,High,Yes,Yes,Yes
+167,15,16-20,Male,Corporate,More than 2 months,No,No,Yes,Yes,Yes,Medium,No,No,Yes
+168,556,25-30,Female,Corporate,More than 2 months,Yes,Yes,Yes,No,Yes,Medium,No,Yes,Yes
+169,192,20-25,Female,Business,15-30 days,Yes,Yes,No,No,Yes,Medium,Yes,No,Yes
+170,252,20-25,Female,Student,More than 2 months,Yes,Yes,Yes,Yes,Yes,High,No,Yes,No
+171,0,20-25,Female,Corporate,1-14 days,Yes,Yes,No,Yes,Yes,Medium,No,No,Yes
+172,366,16-20,Female,Others,Go out Every day,Yes,Yes,No,Yes,Yes,Low,Yes,No,Yes
+173,434,30-Above,Female,Business,31-60 days,No,No,Yes,Yes,Yes,Low,Yes,No,Yes
+174,528,30-Above,Male,Business,More than 2 months,Yes,Yes,No,No,Yes,Medium,No,No,No
+175,170,25-30,Male,Corporate,15-30 days,Yes,Yes,No,No,Yes,Medium,No,No,Yes
+176,531,20-25,Male,Business,1-14 days,No,Yes,Yes,Yes,Yes,Low,No,No,Yes
+177,608,30-Above,Male,Business,Go out Every day,Yes,No,Yes,Yes,Yes,High,Yes,Yes,Yes
+178,509,20-25,Female,Housewife,1-14 days,Yes,Yes,No,Yes,No,Medium,No,Yes,Yes
+179,785,30-Above,Male,Housewife,31-60 days,Yes,Yes,Yes,No,Yes,High,No,No,Yes
+180,325,25-30,Female,Business,Go out Every day,Yes,Yes,Yes,No,Yes,High,Yes,No,No
+181,292,20-25,Female,Student,15-30 days,Yes,Yes,Yes,Yes,No,High,Yes,Yes,No
+182,794,30-Above,Female,Housewife,Go out Every day,Yes,Yes,No,No,No,Low,No,No,Yes
+183,7,25-30,Female,Student,1-14 days,Yes,No,Yes,Yes,Yes,High,No,No,Yes
+184,706,16-20,Male,Housewife,1-14 days,No,Yes,Yes,No,No,High,Yes,No,Yes
+185,330,25-30,Female,Others,More than 2 months,No,No,Yes,No,Yes,High,No,Yes,Yes
+186,687,30-Above,Male,Student,15-30 days,Yes,No,Yes,Yes,Yes,High,No,Yes,No
+187,614,30-Above,Female,Student,More than 2 months,Yes,Yes,No,Yes,No,Low,No,Yes,No
+188,540,20-25,Male,Housewife,1-14 days,No,Yes,Yes,No,Yes,Medium,No,Yes,No
+189,255,30-Above,Female,Others,31-60 days,Yes,Yes,No,Yes,Yes,Low,Yes,Yes,No
+190,760,16-20,Male,Housewife,Go out Every day,No,Yes,Yes,No,No,Low,Yes,No,Yes
+191,85,16-20,Male,Corporate,Go out Every day,No,Yes,Yes,Yes,No,Low,No,Yes,Yes
+192,361,25-30,Female,Others,15-30 days,Yes,Yes,No,No,No,Low,Yes,Yes,Yes
+193,332,20-25,Male,Student,1-14 days,Yes,Yes,No,Yes,Yes,Low,Yes,No,Yes
+194,216,25-30,Male,Housewife,15-30 days,No,Yes,Yes,Yes,Yes,Medium,Yes,Yes,Yes
+195,410,20-25,Female,Student,Go out Every day,No,Yes,Yes,Yes,Yes,High,No,Yes,Yes
+196,613,20-25,Female,Others,31-60 days,Yes,Yes,Yes,No,No,Medium,No,Yes,Yes
+197,306,25-30,Male,Business,15-30 days,Yes,Yes,Yes,Yes,No,Medium,No,Yes,Yes
+198,89,30-Above,Female,Business,15-30 days,Yes,Yes,Yes,No,Yes,High,Yes,Yes,Yes
+199,773,25-30,Male,Housewife,More than 2 months,No,Yes,No,Yes,Yes,High,Yes,No,Yes
+200,21,16-20,Male,Housewife,15-30 days,No,Yes,No,Yes,No,High,No,Yes,No
+201,714,16-20,Male,Others,31-60 days,No,Yes,Yes,No,Yes,Medium,Yes,Yes,No
+202,329,20-25,Female,Business,1-14 days,No,Yes,Yes,Yes,No,Medium,Yes,Yes,No
+203,53,30-Above,Male,Others,31-60 days,No,Yes,No,Yes,Yes,Low,Yes,Yes,No
+204,127,20-25,Female,Business,More than 2 months,Yes,No,Yes,Yes,No,Medium,Yes,Yes,No
+205,59,20-25,Male,Student,31-60 days,Yes,No,No,Yes,Yes,Low,Yes,Yes,Yes
+206,679,20-25,Female,Business,15-30 days,Yes,Yes,Yes,Yes,Yes,High,No,Yes,Yes
+207,95,16-20,Female,Housewife,31-60 days,Yes,Yes,No,Yes,Yes,High,No,Yes,Yes
+208,363,20-25,Female,Corporate,15-30 days,Yes,Yes,No,Yes,No,High,No,Yes,Yes
+209,603,20-25,Female,Others,Go out Every day,Yes,Yes,Yes,No,Yes,Low,No,Yes,Yes
+210,335,16-20,Female,Business,1-14 days,Yes,Yes,Yes,Yes,Yes,High,Yes,Yes,Yes
+211,88,25-30,Male,Others,15-30 days,Yes,Yes,Yes,Yes,Yes,High,No,No,Yes
+212,501,20-25,Female,Housewife,Go out Every day,Yes,Yes,Yes,Yes,No,Medium,Yes,Yes,Yes
+213,57,25-30,Male,Others,1-14 days,Yes,Yes,Yes,Yes,Yes,Low,No,No,Yes
+214,115,25-30,Female,Business,Go out Every day,No,Yes,No,Yes,No,Low,Yes,Yes,No
+215,272,20-25,Female,Housewife,More than 2 months,Yes,Yes,Yes,Yes,Yes,High,No,Yes,Yes
+216,261,16-20,Female,Corporate,31-60 days,Yes,Yes,Yes,Yes,Yes,Medium,No,Yes,Yes
+217,348,16-20,Female,Housewife,Go out Every day,Yes,No,No,No,No,Low,Yes,Yes,Yes
+218,502,20-25,Male,Others,1-14 days,Yes,No,Yes,Yes,No,Low,Yes,Yes,Yes
+219,126,30-Above,Female,Student,1-14 days,Yes,Yes,Yes,No,No,Low,Yes,No,Yes
+220,81,30-Above,Female,Corporate,More than 2 months,Yes,No,Yes,No,Yes,Medium,No,No,No
+221,653,16-20,Male,Corporate,31-60 days,Yes,No,Yes,Yes,Yes,Medium,Yes,Yes,No
+222,666,16-20,Male,Student,31-60 days,Yes,Yes,Yes,Yes,No,Medium,No,No,Yes
+223,686,16-20,Male,Business,31-60 days,No,No,No,No,Yes,Low,Yes,No,No
+224,761,20-25,Female,Student,Go out Every day,Yes,Yes,No,Yes,Yes,Medium,Yes,No,No
+225,103,30-Above,Female,Corporate,15-30 days,Yes,Yes,Yes,No,Yes,Low,Yes,Yes,Yes
+226,763,20-25,Male,Student,Go out Every day,Yes,Yes,No,Yes,Yes,High,No,No,Yes
+227,41,30-Above,Female,Corporate,Go out Every day,Yes,Yes,No,Yes,Yes,Low,Yes,No,No
+228,474,25-30,Female,Others,More than 2 months,Yes,Yes,Yes,No,Yes,Medium,Yes,No,No
+229,195,25-30,Female,Others,More than 2 months,Yes,Yes,Yes,Yes,No,Low,Yes,Yes,Yes
+230,725,25-30,Female,Others,31-60 days,Yes,No,Yes,No,No,Medium,No,Yes,Yes
+231,639,16-20,Female,Others,1-14 days,Yes,Yes,Yes,No,No,Medium,Yes,Yes,No
+232,755,20-25,Male,Student,More than 2 months,No,Yes,Yes,Yes,Yes,High,Yes,Yes,Yes
+233,405,16-20,Female,Student,More than 2 months,Yes,Yes,Yes,Yes,No,Medium,Yes,Yes,Yes
+234,813,25-30,Male,Student,31-60 days,Yes,No,Yes,Yes,Yes,High,Yes,Yes,Yes
+235,821,20-25,Male,Student,More than 2 months,Yes,Yes,Yes,No,Yes,High,Yes,Yes,Yes
+236,471,16-20,Female,Others,15-30 days,No,Yes,Yes,Yes,Yes,High,No,Yes,Yes
+237,257,25-30,Female,Housewife,1-14 days,Yes,Yes,Yes,Yes,Yes,Medium,Yes,No,Yes
+238,285,25-30,Male,Student,More than 2 months,No,Yes,Yes,Yes,No,High,No,Yes,No
+239,815,30-Above,Female,Others,1-14 days,Yes,Yes,Yes,Yes,Yes,Medium,Yes,Yes,No
+240,426,20-25,Male,Housewife,Go out Every day,No,Yes,Yes,No,No,High,No,Yes,Yes
+241,150,25-30,Male,Others,31-60 days,No,Yes,Yes,Yes,No,Medium,No,No,No
+242,744,16-20,Female,Housewife,15-30 days,Yes,No,No,Yes,No,Medium,Yes,No,Yes
+243,43,20-25,Male,Student,More than 2 months,No,Yes,Yes,No,Yes,High,No,Yes,Yes
+244,175,20-25,Male,Others,Go out Every day,No,Yes,Yes,Yes,No,Low,Yes,Yes,Yes
+245,256,20-25,Male,Housewife,1-14 days,Yes,No,Yes,Yes,Yes,Medium,No,Yes,No
+246,477,25-30,Male,Others,Go out Every day,No,Yes,No,Yes,No,Medium,No,Yes,Yes
+247,793,25-30,Female,Student,15-30 days,No,Yes,Yes,Yes,No,Medium,Yes,Yes,No
+248,34,16-20,Female,Student,Go out Every day,Yes,No,Yes,Yes,Yes,High,Yes,No,Yes
+249,464,30-Above,Male,Student,31-60 days,Yes,No,No,No,Yes,High,Yes,No,Yes
+250,736,16-20,Female,Student,Go out Every day,No,Yes,No,Yes,No,Low,Yes,Yes,No
+251,554,16-20,Female,Housewife,Go out Every day,Yes,Yes,Yes,No,No,High,No,Yes,Yes
+252,138,20-25,Female,Student,15-30 days,No,Yes,Yes,Yes,Yes,Low,No,Yes,Yes
+253,660,16-20,Female,Business,1-14 days,No,No,No,No,Yes,Medium,No,No,Yes
+254,536,30-Above,Female,Corporate,31-60 days,Yes,Yes,No,No,Yes,Low,No,Yes,Yes
+255,449,20-25,Female,Corporate,31-60 days,Yes,Yes,Yes,Yes,Yes,High,No,Yes,Yes
+256,290,20-25,Male,Business,1-14 days,Yes,Yes,Yes,No,No,High,No,No,Yes
+257,19,16-20,Female,Student,1-14 days,Yes,Yes,Yes,No,Yes,High,No,Yes,Yes
+258,563,30-Above,Female,Student,31-60 days,No,No,Yes,No,No,High,No,No,Yes
+259,102,20-25,Female,Corporate,More than 2 months,Yes,Yes,Yes,No,Yes,Medium,Yes,Yes,Yes
+260,675,16-20,Female,Housewife,1-14 days,Yes,Yes,Yes,Yes,Yes,Low,Yes,No,Yes
+261,184,16-20,Female,Student,1-14 days,No,Yes,Yes,Yes,No,Low,Yes,Yes,Yes
+262,544,16-20,Male,Student,15-30 days,Yes,Yes,Yes,Yes,No,Low,Yes,Yes,Yes
+263,592,30-Above,Female,Others,15-30 days,Yes,Yes,Yes,Yes,Yes,High,No,No,Yes
+264,542,16-20,Male,Student,31-60 days,No,No,Yes,Yes,Yes,High,Yes,Yes,No
+265,511,16-20,Female,Others,More than 2 months,No,No,Yes,Yes,Yes,Low,Yes,Yes,No
+266,443,16-20,Female,Business,1-14 days,Yes,Yes,No,No,No,High,No,Yes,Yes
+267,412,30-Above,Male,Housewife,Go out Every day,Yes,Yes,Yes,Yes,Yes,Low,No,Yes,Yes
+268,688,25-30,Male,Corporate,31-60 days,Yes,Yes,Yes,No,Yes,Medium,No,Yes,Yes
+269,101,16-20,Male,Corporate,More than 2 months,No,Yes,Yes,Yes,No,High,Yes,Yes,No
+270,338,16-20,Male,Corporate,15-30 days,No,No,Yes,No,Yes,High,No,Yes,Yes
+271,409,30-Above,Male,Others,Go out Every day,Yes,Yes,Yes,Yes,Yes,High,Yes,Yes,No
+272,389,20-25,Female,Housewife,More than 2 months,Yes,No,Yes,Yes,Yes,Medium,Yes,No,Yes
+273,514,16-20,Female,Student,More than 2 months,Yes,No,Yes,Yes,Yes,Low,Yes,Yes,Yes
+274,626,20-25,Male,Student,31-60 days,Yes,Yes,Yes,No,No,Low,Yes,Yes,Yes
+275,36,20-25,Male,Corporate,15-30 days,Yes,Yes,Yes,No,Yes,Low,Yes,No,Yes
+276,403,25-30,Female,Corporate,1-14 days,Yes,No,Yes,Yes,Yes,Low,No,Yes,No
+277,418,30-Above,Female,Others,More than 2 months,Yes,No,Yes,No,Yes,Medium,Yes,Yes,Yes
+278,636,25-30,Male,Corporate,Go out Every day,Yes,Yes,Yes,Yes,No,Medium,Yes,No,No
+279,199,20-25,Female,Others,31-60 days,Yes,Yes,Yes,Yes,Yes,Medium,No,Yes,No
+280,289,25-30,Female,Others,31-60 days,Yes,No,Yes,No,Yes,High,Yes,Yes,Yes
+281,797,30-Above,Female,Housewife,1-14 days,Yes,Yes,No,Yes,Yes,High,No,Yes,Yes
+282,368,30-Above,Male,Student,31-60 days,Yes,Yes,Yes,Yes,No,Low,No,Yes,No
+283,54,30-Above,Male,Others,More than 2 months,Yes,No,Yes,No,Yes,High,No,Yes,No
+284,33,20-25,Female,Business,15-30 days,Yes,Yes,No,No,No,Low,No,No,No
+285,708,16-20,Female,Student,15-30 days,No,Yes,Yes,No,Yes,Low,No,Yes,Yes
+286,6,16-20,Female,Business,Go out Every day,Yes,Yes,Yes,No,Yes,Low,No,Yes,Yes
+287,747,16-20,Female,Corporate,Go out Every day,No,No,No,Yes,Yes,Medium,No,Yes,No
+288,466,25-30,Male,Student,1-14 days,Yes,No,No,Yes,Yes,Medium,No,Yes,Yes
+289,767,20-25,Male,Student,1-14 days,No,No,Yes,No,Yes,High,No,Yes,Yes
+290,764,30-Above,Male,Housewife,More than 2 months,Yes,No,Yes,No,Yes,High,No,Yes,Yes
+291,162,16-20,Female,Housewife,31-60 days,Yes,Yes,Yes,No,Yes,High,Yes,Yes,No
+292,520,16-20,Male,Corporate,15-30 days,No,Yes,No,No,Yes,Medium,No,Yes,Yes
+293,602,25-30,Female,Student,31-60 days,Yes,No,Yes,Yes,Yes,Low,Yes,Yes,No
+294,66,25-30,Female,Others,More than 2 months,Yes,Yes,No,No,Yes,Medium,Yes,Yes,Yes
+295,534,30-Above,Female,Corporate,More than 2 months,Yes,Yes,Yes,Yes,Yes,High,No,No,Yes
+296,146,25-30,Male,Corporate,31-60 days,No,Yes,Yes,No,No,Low,Yes,No,Yes
+297,593,16-20,Female,Student,15-30 days,No,No,No,Yes,No,Medium,No,Yes,Yes
+298,500,20-25,Female,Business,31-60 days,Yes,Yes,Yes,Yes,Yes,Low,Yes,Yes,No
+299,447,20-25,Male,Student,1-14 days,Yes,Yes,Yes,No,Yes,High,No,Yes,Yes
